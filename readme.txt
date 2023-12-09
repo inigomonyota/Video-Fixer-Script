@@ -1,0 +1,1 @@
+Stick all files in root of collections folder.  Run 'python script.py'. Wait.  Will find all mp4/avi files (except for those in marquee folders) that have incorrect aspect ratios in their metadata.  Then a 'fixed' folder will appear retaining the original folder structure.
